@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This app allows users to monitor their health for the day and monitor things like diet, mood and symptoms.  Click [`here`](https://health-tracker-frontend.netlify.app/) for a live preview.
+This app allows users to monitor their health for the day and monitor things like diet, mood and symptoms.  Click [`here`](https://health-tracker-jh.netlify.app/) for a live preview.
 
 ## Available Scripts
 
