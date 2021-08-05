@@ -10,7 +10,7 @@ const Button = ({showAddTask, onClick}) => {
     return (
         <div className='button'>
             {/*Text and background color is based on showAddTask value*/}
-            <button onClick={onClick} className="btn" style={style}>{showAddTask ? 'Close Note' : 'Add Note'}</button>
+            <button onClick={onClick} className="btn" style={style}>{showAddTask ? 'Close' : 'Add'}</button>
         </div>
     )
 }
